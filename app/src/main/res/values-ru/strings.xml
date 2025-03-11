@@ -5,4 +5,16 @@
     <string name="sample_text">Hello</string>
     <string name="first_btn">Первая кнопка</string>
     <string name="second_btn">Вторая кнопка</string>
+
+    <string name="sample_text_DZ">Hello World</string>
+    <string name="first_btn_DZ">Кнопка номер 1</string>
+    <string name="second_btn_DZ">Кнопка номер 2</string>
+
+
+    <string name="sample_text_DZ2">Хулиган</string>
+    <string name="sample_text_DZ3">Нажми Кнопку номер 3</string>
+    <string name="third_btn_DZ">Кнопка номер 3</string>
+    <string name="fourth_btn_DZ">Кнопка номер 4</string>
+
+
 </resources>
