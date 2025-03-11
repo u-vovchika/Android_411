@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <!--    <TableRow-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent">-->
+
+    <!--        <TextView-->
+    <!--            android:id="@+id/textView13"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_weight="0.5"-->
+    <!--            android:background="@color/second"-->
+    <!--            android:text="TextView" />-->
+
+    <!--        <TextView-->
+    <!--            android:id="@+id/textView14"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_weight="1"-->
+    <!--            android:background="@android:color/holo_orange_dark"-->
+    <!--            android:text="TextView" />-->
+    <!--    </TableRow>-->
+
+    <!--    <TableRow-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="match_parent">-->
+
+    <!--        &lt;!&ndash;        <TextView&ndash;&gt;-->
+    <!--        &lt;!&ndash;            android:layout_weight="0.5"&ndash;&gt;-->
+    <!--        &lt;!&ndash;            android:id="@+id/textView15"&ndash;&gt;-->
+    <!--        &lt;!&ndash;            android:layout_width="wrap_content"&ndash;&gt;-->
+    <!--        &lt;!&ndash;            android:layout_height="wrap_content"&ndash;&gt;-->
+    <!--        &lt;!&ndash;            android:background="@android:color/system_tertiary_fixed"&ndash;&gt;-->
+    <!--        &lt;!&ndash;            android:text="TextView" />&ndash;&gt;-->
+
+    <!--        <TextView-->
+    <!--            android:id="@+id/textView16"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_span="2"-->
+    <!--            android:layout_weight="1"-->
+    <!--            android:background="@color/first"-->
+    <!--            android:text="TextView" />-->
+    <!--    </TableRow>-->
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:layout_weight="1"
+            android:id="@+id/imageView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/f3" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/f1" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/f2" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:layout_weight="1"
+            android:id="@+id/imageView24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/f6" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:id="@+id/imageView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/f5" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:id="@+id/imageView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/f4" />
+    </TableRow>
+</TableLayout>
