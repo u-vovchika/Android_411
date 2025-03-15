@@ -16,4 +16,13 @@
     <string name="third_btn_DZ">Кнопка номер 3</string>
     <string name="fourth_btn_DZ">Кнопка номер 4</string>
 
+
+    <string name="logo_text">Калькулятор</string>
+    <string name="number_1">Число 1</string>
+    <string name="number_2">Число 2</string>
+    <string name="sum_btn">+</string>
+    <string name="minus_btn">-</string>
+    <string name="multiply_btn">*</string>
+    <string name="share_btn">/</string>
+
 </resources>
